@@ -99,10 +99,10 @@ button:hover::after, button:focus::after {
   z-index: -1000;
   overflow: hidden;
   -webkit-filter: blur(10px);
- -moz-filter: blur(15px);
- -o-filter: blur(15px);
- -ms-filter: blur(15px);
- filter: blur(15px);
+ -moz-filter: blur(10px);
+ -o-filter: blur(10px);
+ -ms-filter: blur(10px);
+ filter: blur(10px);
 }
 
 body {
