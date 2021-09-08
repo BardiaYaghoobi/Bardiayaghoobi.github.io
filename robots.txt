@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://bardiayaghoobi.github.io/sitemap.xml
+Sitemap: https://https://bardiayg.github.io/sitemap.xml
